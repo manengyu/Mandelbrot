@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">asinbx</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="a_zhi">选择a值:</string>
+    <string name="b_zhi">选择b值:</string>
+
+</resources>
